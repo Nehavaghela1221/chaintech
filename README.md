@@ -123,5 +123,7 @@ Edit tasks.
 Delete tasks.
 
 
-This setup will give you a functional full-stack task management app with a MongoDB backend a
->>>>>>> 9ccd56dae8944426b6206946fc379c55ab0741cf
+Bonus (Optional)
+Implement due dates for tasks.
+
+

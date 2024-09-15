@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Nehavaghela1221/chaintech/blob/main/client
+[submodule "chaintech"]
+	path = chaintech
+	url = https://github.com/Nehavaghela1221/chaintech
